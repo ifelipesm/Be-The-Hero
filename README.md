@@ -1,52 +1,107 @@
+<h1 align="center">
+    <img  src="frontend/src/assets/logo.svg">
+</h1>
+
+
+<h3 align="center" >
+  An application where you can be the hero and save the world, helping some NGOs to raise funds for their causes.
+</h3>
+
 <p align="center">
-  <img  src="frontend/src/assets/logo.svg">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/ifelipesm/Be-The-Hero">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ifelipesm/Be-The-Hero">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ifelipesm/Be-The-Hero">
+  <a href="https://github.com/ifelipesm/Be-The-Hero/commits/master">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/ifelipesm/Be-The-Hero">
+  </a>
+   <a href="https://github.com/ifelipesm/Be-The-Hero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/ifelipesm/Be-The-Hero">
+  </a>
+  <img alt="License" src="https://img.shields.io/github/license/ifelipesm/Be-The-Hero">
+</p>
+<p align="center">
+
+  <a href="https://github.com/ifelipesm" target="_blank">
+    <img alt="Made by Felipe Martins" src="https://img.shields.io/badge/made%20by-Felipe_Martins-informational">
+  </a>
+  <a href="https://github.com/ifelipesm" target="_blank" >
+    <img alt="Github - Felipe Martins" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
+  </a>
 </p>
 
-# Semana OmniStack 11.0 | RocketSeat
-> Semana de curso onde desenvolveremos um aplicativo chamado **BE THE HERO**. Onde as ONGs irão realizar os cadastrados a partir da WEB, solicitando ajuda. E através do MOBO, será a vez dos heróis (eu, tu e ele) em ajudá-los com cada caso postado. No conceito técnico, será FRONT-END (WEB - ReactJS e MOBO - React Native) tudo integrado em um só BACKEND (Nodejs). 
-
-#### Configurar ambiente de desenvolvimento
-- Node.js & NPM
-- Visual Studio Code
-
-### BACK-END  |  Node.js
-#### Bibliotecas utilizadas
-- Express  -  Micro Framework para rotas
-- Nodemon -D  -  Atualiza em tempo real a aplicação back-end, mas modo de desenvolvedor (-D)
-#### Aplicativo para requisições HTTP
-- Insomnia
-#### Banco de dados
-- SQLite - Armazena como arquivo.
-#### Query Builder for SQL
-- Knex.js  -  Construtor de dados no SQL ( MySQL, SQLite ...)
-- Driver  -   sqlite3
-- npx knex init - Com npx, ele executa um pacote knex. E cria um arquivo 
-chamado knexfile.js (nele que fica as configurações de acesso ao banco de dados) 
-
-#### Módulo de segurança
-- npm install cors - Serve para dizer qual o endereço (http | front-end) pode acessar o servidor (back-end)
-
-
-### FRONT-END  |  ReactJS
-#### Bibliotecas utilizadas
-- react-router-dom
-- react-icons
-- axios
-
-### MOBILE  |  React Native
-#### Bibliotecas utilizadas
-- expo-cli
-- @react-navigation/native
-- (expo install) react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
-- @react-navigation/stack
-- (expo install) expo-constants
-- @expo/vector-icons  - Nativa do Expo
-- (expo install) expo-mail-composer
-- axios
-- npm install intl
-
-
-<p align="right">
-  <img  width=200 hight=250 src="frontend/src/assets/heroes.png">
+<p align="center">
+  <a href="#computer-languages">Languages</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#books-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
+<p align="justify">
+	Go inside the folders to find out more ... you can go there, there is a beautiful README inside each one.
+</p>
+
+## :computer: Languages
+
+- **Javascript**
+- **NodeJS**
+- **HTML**
+- **CSS**
+- **SQL**
+
+## :books: Technologies
+- ### Backend 
+	* **celebrate**:  ^12.0.1
+	* **cors**:  ^2.8.5
+	* **cross-env**:  ^7.0.2
+	* **dotenv**:  ^8.2.0
+	* **express**:  ^4.17.1
+	* **knex**:  ^0.20.13
+	* **nodemailer**:  ^6.4.6
+	* **nodemailer-express-handlebars**:  ^4.0.0
+	* **nodemon**: ^2.0.2 
+	* **sqlite3**:  ^4.1.1
+
+
+- ### Web
+	* **@testing-library/jest-dom**:  ^4.2.4
+	* **@testing-library/react**:  ^9.3.2
+	* **@testing-library/user-event**:  ^7.1.2
+	* **axios**:  ^0.19.2
+	* **polished**:  ^3.5.1
+	* **react**:  ^16.13.1
+	* **react-dom**:  ^16.13.1
+	* **react-icons**:  ^3.9.0
+	* **react-router-dom**:  ^5.1.2
+	* **react-scripts**:  3.4.1",
+	* **react-toastify**:  ^5.5.0
+	* **styled-components**:  ^5.0.1
+
+- ### Mobile
+	- #### React navigation
+		* **@react-native-community/masked-view**: 0.1.5
+		* **@react-navigation/drawer**:  ^5.3.4
+		* **@react-navigation/native**:  ^5.1.3
+		* **@react-navigation/stack**:  ^5.2.6
+	* **axio**s:  ^0.19.2
+	* **expo**:  ~36.0.0
+	* **expo-constants**:  ~8.0.0
+	* **expo-mail-composer**:  ~8.0.0
+	* **intl**:  ^1.2.5
+	- #### React
+		* **react**:  ~16.9.0
+		* **react-dom**:  ~16.9.0
+		* **react-native**:  https://github.com/expo/react-native/archive/sdk-36.0.0.tar.gz
+		* **react-native-gesture-handler**:  ~1.5.0
+		* **react-native-reanimated**:  ~1.4.0
+		* **react-native-safe-area-contex**:  0.6.0
+		* **react-native-screens**:  2.0.0-alpha.12
+		* **react-native-web**:  ~0.11.7
+	* **styled-components**:  ^5.0.1
+
+
+## :memo: License
+
+This project is under MIT. See at here [LICENSE](/LICENSE) for more informations.
+
+---
+
+Made with :blue_heart: by [Felipe Martins](https://github.com/ifelipesm)

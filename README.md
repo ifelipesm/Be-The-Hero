@@ -35,10 +35,6 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="justify">
-	Go inside the folders to find out more ... you can go there, there is a beautiful README inside each one.
-</p>
-
 ## :computer: Languages
 
 - **Javascript**

@@ -38,6 +38,8 @@
 
 ## :computer: Languages
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/4190a3a66a2345e089d64c31694bc93e)](https://app.codacy.com/manual/ifelipesm/Be-The-Hero?utm_source=github.com&utm_medium=referral&utm_content=ifelipesm/Be-The-Hero&utm_campaign=Badge_Grade_Settings)
+
 - **Javascript**
 - **NodeJS**
 - **HTML**

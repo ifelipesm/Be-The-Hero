@@ -39,10 +39,9 @@
 ## :computer: Languages
 
 - **Javascript**
-- **NodeJS**
-- **HTML**
-- **CSS**
-- **SQL**
+- **NodeJs**
+- **ReactJs**
+- **React Native**
 
 ## :books: Technologies
 - ### Backend 

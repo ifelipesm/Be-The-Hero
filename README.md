@@ -8,6 +8,7 @@
 </h3>
 
 <p align="center">
+   <img src="https://api.codacy.com/project/badge/Grade/751fc12c3a28433e842840990bfee5fc">	
   <img alt="Languagues" src="https://img.shields.io/github/languages/count/ifelipesm/Be-The-Hero">
   <img alt="Top Languague" src="https://img.shields.io/github/languages/top/ifelipesm/Be-The-Hero">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/ifelipesm/Be-The-Hero">
@@ -35,17 +36,12 @@
   <a href="#memo-license">License</a>
 </p>
 
-<p align="justify">
-	Go inside the folders to find out more ... you can go there, there is a beautiful README inside each one.
-</p>
-
 ## :computer: Languages
 
 - **Javascript**
-- **NodeJS**
-- **HTML**
-- **CSS**
-- **SQL**
+- **NodeJs**
+- **ReactJs**
+- **React Native**
 
 ## :books: Technologies
 - ### Backend 
